@@ -1,4 +1,5 @@
-
+#6D/Khaepah
+#6D/RizkiAmalia
 import os
 import sys
 import numpy as np
